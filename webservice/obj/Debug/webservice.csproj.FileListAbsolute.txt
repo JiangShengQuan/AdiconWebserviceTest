@@ -1,0 +1,41 @@
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.Form1.resources
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.Properties.Resources.resources
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.csproj.GenerateResource.cache
+C:\Users\ADICON\source\repos\webservice\webservice\bin\Debug\webservice.exe.config
+C:\Users\ADICON\source\repos\webservice\webservice\bin\Debug\webservice.exe
+C:\Users\ADICON\source\repos\webservice\webservice\bin\Debug\webservice.pdb
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.exe
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.pdb
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\bin\Debug\webservice.exe
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\bin\Debug\webservice.exe.config
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\obj\Debug\webservice.Form1.resources
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\obj\Debug\webservice.Properties.Resources.resources
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\obj\Debug\webservice.csproj.GenerateResource.cache
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\obj\Debug\webservice.exe
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\obj\Debug\webservice.pdb
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\bin\Debug\webservice.pdb
+C:\Users\ADICON\source\repos\webservice - 副本\webservice\obj\Debug\webservice.csprojAssemblyReference.cache
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.csprojAssemblyReference.cache
+C:\Users\ADICON\source\repos\webservice\webservice\obj\Debug\webservice.Form2.resources
+E:\C#\source\repos\webservice\webservice\bin\Debug\webservice.exe.config
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.exe
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.pdb
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.BaseToJPG_Form.resources
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.Form1.resources
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.Form2.resources
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.Properties.Resources.resources
+E:\C#\source\repos\webservice\webservice\obj\Debug\webservice.csproj.GenerateResource.Cache
+E:\C#\source\repos\webservice\webservice\bin\Debug\webservice.exe
+E:\C#\source\repos\webservice\webservice\bin\Debug\webservice.pdb
+E:\C#\程序\webservice\webservice\bin\Debug\webservice.exe.config
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.exe
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.pdb
+E:\C#\程序\webservice\webservice\bin\Debug\webservice.exe
+E:\C#\程序\webservice\webservice\bin\Debug\webservice.pdb
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.BaseToJPG_Form.resources
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.Form1.resources
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.Form2.resources
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.Properties.Resources.resources
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.csproj.GenerateResource.Cache
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.csproj.CoreCompileInputs.cache
+E:\C#\程序\webservice\webservice\obj\Debug\webservice.csproj.AssemblyReference.cache
